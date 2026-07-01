@@ -1,0 +1,36 @@
+{"data":[
+    { "id": 1, "name": "c", "percent":90 },
+    { "id": 2, "name": "c++","percent":85   },
+    { "id": 3, "name": "python", "percent":89  }
+  ],
+  "web":[
+    { "id":1,"name":"HTML","percent":85},
+    { "id":2,"name":"CSS","percent":80},
+    { "id":3,"name":"Javascript","percent":75}
+  ],
+  "tools":[
+    { "id":1,"name":"Git","percent":80},
+    { "id":2,"name":"GitHub","percent":80},
+    { "id":3,"name":"VS code","percent":90}
+  ],
+  "database":[
+    { "id":1,"name":"Oracle DB","percent":70},
+    { "id":2,"name":"MYSQL","percent":75},
+    { "id":3, "name":"MongoDB","percent":50}
+  ],
+  "project":[
+    { "id":1,"image":"/src/assets/calculator.jpg"}
+   ],
+   "project2":[
+        { "id":1,"image":"/src/assets/port.png"}
+
+   ],
+   "project3":[
+        { "id":1,"image":"/src/assets/kawasaki.jpg"}
+
+   ],
+   "project4":[
+        { "id":1,"image":"/src/assets/train.jpg"}
+
+   ]
+}
